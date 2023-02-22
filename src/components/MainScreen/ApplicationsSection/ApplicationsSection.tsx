@@ -8,7 +8,7 @@ export const ApplicationsSection = () => {
 
   return (
     <div className="flex flex-col items-start">
-      <div className="flex flex-wrap gap-x-7">
+      <div className="flex flex-wrap justify-center gap-x-7">
         {applications.map(item => (
           <Application
             {...item}
