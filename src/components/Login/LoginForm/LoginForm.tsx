@@ -22,7 +22,7 @@ export const LoginForm = () => {
       <Input
         type="password"
         name="password"
-        placeholder="Password"
+        placeholder="Password: 1111"
         value={formik.values.password}
         onChange={formik.handleChange}
         error={formik.errors.password}
