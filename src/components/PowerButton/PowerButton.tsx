@@ -30,7 +30,7 @@ export const PowerButton = () => {
     <>
       <div
         onClick={handleOpen}
-        className="w-[60px] h-[60px] bg-primary hover:bg-red-50 fixed bottom-4 left-4 flex items-center justify-center rounded-full cursor-pointer shadow-md"
+        className="w-[60px] h-[60px] bg-primary hover:bg-blue-200 fixed bottom-4 left-4 flex items-center justify-center rounded-full cursor-pointer shadow-md"
       >
         <Icon icon="power-off" className="w-6" />
       </div>
