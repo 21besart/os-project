@@ -11,6 +11,7 @@ This project is done using [React](https://reactjs.org/) with [TypeScript](https
 - Menu Bar - Preferences & Time.
 - Applications - Camera, Browser, News, Folders/Documents.
 - Power off button.
+- Dark mode
 
 ## Live Version
 
